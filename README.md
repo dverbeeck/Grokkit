@@ -1,4 +1,4 @@
-# GrokAiChat
+# Grokkit
 
 A Python library for interacting with Grok AI through X's user account API. This project provides a clean interface for creating conversations, sending messages, and handling responses. Note: This uses the account user API, not the paid enterprise API. Grok AI is free for all X (Twitter) members.
 
@@ -20,7 +20,7 @@ A Python library for interacting with Grok AI through X's user account API. This
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/vibheksoni/GrokAiChat.git
+    git clone https://github.com/dverbeeck/grokkit.git
     cd GrokAiChat
     ```
 
