@@ -19,7 +19,7 @@ grok.create_conversation()
 request_data = grok.create_message(r"grok-2")
 # Attach a file
 # Text files arent allowed I dont know all the types of files that are allowed
-file = grok.upload_file(r"C:/Users/soni/Documents/GitHub/grokkit/examples/Test.jpg")
+file = grok.upload_file(r"C:/Users/styro/Documents/GitHub/grokkit/examples/Test.jpg")
 # Add a user message
 grok.add_user_message(request_data, "What does the attachment say?", file_attachments=file)
 # Send the message

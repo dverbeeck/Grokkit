@@ -1,7 +1,7 @@
 """
 Name: Vibhek Soni
 Age: 19
-Github: https://github.com/vibheksoni
+Github: https://github.com/dverbeeck
 """
 import requests, uuid, json, mimetypes
 from typing import List, Optional
