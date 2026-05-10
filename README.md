@@ -163,6 +163,6 @@ Full documentation is available in the code comments.
 
 **Vibhek Soni**
 - Age: 19
-- GitHub: [@vibheksoni](https://github.com/vibheksoni)
+- GitHub: [@dverbeeck](https://github.com/dverbeeck)
 - Project Link: [grokkit](https://github.com/dverbeeck/grokkit)
 
